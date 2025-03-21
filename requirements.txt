@@ -1,0 +1,4 @@
+numpy
+mediapipe
+PyQt5
+nb_helpers
