@@ -2,3 +2,8 @@ numpy
 mediapipe
 PyQt5
 nb_helpers
+pandas
+matplotlib
+scikit-learn
+scipy
+
