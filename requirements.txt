@@ -6,4 +6,9 @@ pandas
 matplotlib
 scikit-learn
 scipy
+torch
+torchvision
+pytorch-lightning
+scikit-learn
+
 
